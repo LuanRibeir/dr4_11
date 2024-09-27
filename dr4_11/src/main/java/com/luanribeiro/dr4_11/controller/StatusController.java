@@ -11,8 +11,8 @@ public class StatusController {
         return "Serviço está ativo!";
     }
 
-    @GetMapping("/test")
-    public String getTest() {
+    @GetMapping("/test1")
+    public String getTest1() {
         return "Teste está ativo!";
     }
 
